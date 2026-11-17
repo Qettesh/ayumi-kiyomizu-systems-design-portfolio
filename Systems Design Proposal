@@ -1,0 +1,287 @@
+## Dynamic Marketplace Regulation and Anti\-RMT Framework
+
+### Author
+
+Ayumi Kiyomizu
+
+---
+
+# Overview
+
+Real Money Trading (RMT) has existed in MMORPGs for decades and remains one of the most persistent challenges facing virtual economies.
+
+Traditional responses often focus on enforcement:
+
+- Account bans
+- Trade restrictions
+- Bot detection
+- Currency tracking
+- Marketplace monitoring
+
+While these solutions remain valuable, they frequently address the symptoms of RMT rather than the underlying economic incentives that make RMT profitable.
+
+This proposal explores an alternative design approach focused on reducing profitability rather than increasing punishment.
+
+---
+
+# Problem Statement
+
+Players generally pursue the most efficient path toward progression.
+
+When legitimate progression becomes sufficiently time\-consuming, frustrating, or inaccessible, unofficial alternatives become increasingly attractive.
+
+This creates demand.
+
+Where demand exists, suppliers emerge.
+
+As a result, many anti\-RMT initiatives become reactive rather than preventative.
+
+The system becomes trapped in a recurring cycle:
+
+Progression Friction
+
+         ↓
+
+Player Frustration
+
+         ↓
+
+RMT Demand
+
+         ↓
+
+Seller Profitability
+
+         ↓
+
+Economic Distortion
+
+         ↓
+
+Developer Restrictions
+
+         ↓
+
+Additional Friction
+
+         ↓
+
+Player Frustration
+
+Breaking this cycle requires addressing demand rather than solely attacking supply.
+
+---
+
+# Design Goals
+
+The proposed system seeks to:
+
+### 1\. Reduce RMT Profitability
+
+Decrease the economic incentive for sellers to operate within the game.
+
+### 2\. Protect Legitimate Players
+
+Ensure ordinary players experience fewer restrictions and less marketplace friction.
+
+### 3\. Improve Economic Stability
+
+Prevent excessive inflation, market manipulation, and resource hoarding.
+
+### 4\. Support Long\-Term Retention
+
+Create progression systems that remain satisfying without encouraging players to seek unofficial alternatives.
+
+---
+
+# Proposed Solution
+
+## Dynamic Marketplace Regulation
+
+Rather than allowing unrestricted pricing behavior, marketplace systems would establish dynamic price boundaries for select high\-risk items.
+
+Price boundaries would be generated using:
+
+- Historical pricing data
+- Supply volume
+- Demand volume
+- Economic health indicators
+- Resource acquisition rates
+
+The objective is not to eliminate free markets.
+
+The objective is to reduce opportunities for economic abuse.
+
+---
+
+## Intelligent Market Monitoring
+
+The system continuously evaluates:
+
+- Suspicious transaction patterns
+- Unusual pricing behavior
+- Currency laundering indicators
+- Abnormally large wealth transfers
+
+Monitoring focuses on behavioral patterns rather than individual transactions.
+
+This approach reduces false positives while improving enforcement effectiveness.
+
+---
+
+## Reduced Progression Friction
+
+RMT demand frequently emerges when legitimate progression feels unreasonable.
+
+Therefore, anti\-RMT strategies should evaluate:
+
+- Upgrade costs
+- Resource availability
+- Progression transparency
+- New player accessibility
+- Time requirements
+
+Reducing unnecessary friction decreases demand for alternative progression paths.
+
+---
+
+# Player Experience Impact
+
+## Current Player Experience
+
+Need Resources
+
+       ↓
+
+Excessive Grind
+
+       ↓
+
+Frustration
+
+       ↓
+
+Consider Alternatives
+
+       ↓
+
+RMT Opportunity
+
+## Proposed Player Experience
+
+Need Resources
+
+       ↓
+
+Achievable Progression
+
+       ↓
+
+Continued Engagement
+
+       ↓
+
+Legitimate Advancement
+
+       ↓
+
+Long\-Term Retention
+
+---
+
+# Risks
+
+### Over\-Regulation
+
+Excessive market controls may reduce player agency and create unintended shortages.
+
+Mitigation:
+
+- Dynamic thresholds
+- Continuous monitoring
+- Data\-driven adjustments
+
+---
+
+### Circumvention
+
+Players may seek alternative trading methods.
+
+Mitigation:
+
+- Behavioral analytics
+- Cross\-system transaction monitoring
+- Continuous economic analysis
+
+---
+
+### Player Perception
+
+Players may perceive market intervention negatively if systems lack transparency.
+
+Mitigation:
+
+- Clear communication
+- Visible economic goals
+- Consistent application
+
+---
+
+# Success Metrics
+
+The effectiveness of this system should be evaluated through measurable outcomes:
+
+### Economy Metrics
+
+- Inflation rate
+- Market participation
+- Resource circulation
+- Transaction volume
+
+### RMT Metrics
+
+- Seller detection frequency
+- RMT report volume
+- Currency confiscation events
+
+### Retention Metrics
+
+- Day 7 retention
+- Day 30 retention
+- Progression completion rates
+- Marketplace participation rates
+
+### Community Metrics
+
+- Guild participation
+- Dungeon participation
+- Social engagement
+
+---
+
+# Lessons for Systems Designers
+
+The most important observation from this proposal is that RMT is fundamentally an incentive problem.
+
+Players optimize around incentives.
+
+Markets adapt to restrictions.
+
+Communities adapt to systems.
+
+When undesirable behaviors emerge at scale, designers must ask:
+
+Why is the behavior occurring?
+
+rather than:
+
+How do we punish it?
+
+The strongest solutions focus on aligning incentives with desired outcomes.
+
+When players find legitimate progression satisfying, accessible, and rewarding, the demand supporting RMT naturally declines.
+
+Effective systems design is not about controlling player behavior.
+
+It is about creating environments where desirable behavior becomes the most attractive choice.
+
