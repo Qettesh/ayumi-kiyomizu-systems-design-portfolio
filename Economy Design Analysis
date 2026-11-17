@@ -1,0 +1,23 @@
+Economy Design Analysis
+Aion 2 Global: Economy, RMT, and Player Retention
+
+Problem Statement
+
+Current anti-RMT strategies focus heavily on enforcement while failing to address economic incentives driving player participation.
+
+Key Observations
+
+Currency sellers remain profitable.
+Players choose cheaper alternatives when official acquisition paths become frustrating.
+Auction houses can unintentionally facilitate wealth transfers.
+
+Design Question
+
+How can the game reduce demand for illicit currency rather than solely punish supply?
+
+Proposed Solutions
+
+Increased accessibility of progression resources.
+Dynamic market monitoring.
+Economic sink balancing.
+Reduced friction for legitimate players.
