@@ -165,20 +165,21 @@ Strong communities provide:
 - Guidance
 - Social accountability
 
-```mermaid
 graph TD
-    A[Progression Friction]
-    B[Player Frustration]
-    C[RMT Demand]
-    D[Seller Profitability]
-    E[Developer Restrictions]
+    A[New Player] --> B[Onboarding]
+    B --> C[Early Engagement]
+    C --> D[Social Integration]
+    D --> E[Community Membership]
+    E --> F[Long-Term Retention]
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> A
-```
+    B --> G[Confusion]
+    G --> H[Player Exit]
+
+    C --> I[Lack of Direction]
+    I --> H
+
+    D --> J[Social Isolation]
+    J --> H
 
 Players often remain in a game long after progression ends because meaningful relationships have formed.
 
