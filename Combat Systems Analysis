@@ -1,54 +1,95 @@
-Throne & Liberty Build Analysis
+# Combat Systems Analysis
 
-Objective
+## Case Study 1: Throne & Liberty Build Optimization
 
-Investigate the trade-off between poison-based gameplay and sustained pressure gameplay.
+### Objective
 
-Hypothesis
+Investigate the trade\-off between poison\-based gameplay and sustained\-pressure gameplay.
 
-Traditional builds overinvest in poison mechanics.
+### Hypothesis
 
-Testing Areas
+Traditional builds may overinvest in poison mechanics at the expense of consistency and accessibility.
 
-Damage consistency
-Resource management
-Skill synergy
-Rotation complexity
-Build accessibility
+### Testing Areas
 
-Key Finding
+- Damage Consistency
+- Resource Management
+- Skill Synergy
+- Rotation Complexity
+- Build Accessibility
 
-Players often achieve greater consistency through sustained-pressure gameplay loops than highly specialized poison rotations.
+### Key Finding
 
-Skills Demonstrated
+Players often achieve greater consistency through sustained\-pressure gameplay loops than highly specialized poison\-focused rotations.
 
-Combat Design
-Balance Analysis
-Player Decision Making
-Gameplay Flow
+### Design Lessons
 
-Aion 2 Combat Rework Case Study
+- Consistency can outperform peak theoretical damage in practical gameplay.
+- Resource efficiency frequently influences long\-term performance.
+- Build accessibility affects adoption and player satisfaction.
+- Players often optimize around reliability rather than maximum output potential.
 
-Problem
-Aion 2's extensive use of macros reduced meaningful player interaction and lowered the skill ceiling of combat.
+### Skills Demonstrated
 
-Developer Response
+- Combat Design
+- Balance Analysis
+- Player Decision Making
+- Gameplay Flow
+- Systems Analysis
+
+---
+
+## Case Study 2: Aion 2 Combat Rework Analysis
+
+### Problem
+
+Aion 2's extensive use of macros reduced meaningful player interaction and lowered the effective skill ceiling of combat.
+
+### Developer Response
+
 NCSoft redesigned combat systems to reward manual gameplay and reduce the effectiveness of macros.
 
-Community Reaction
+### Community Reaction
+
 Korean community responses generally fell into several categories:
 
-Supporters of higher skill expression
-Players concerned about increased complexity
-Players dissatisfied with class-specific changes
-Players who felt the changes did not go far enough
-Design Lessons
-The strongest reactions centered around:
+#### Supporters of Higher Skill Expression
 
-Agency
-Build expression
-Class identity
-Reward structures
-Skill expression
-Conclusion
-Player engagement appears strongly linked to meaningful decision-making rather than passive optimization.
+Many players welcomed increased emphasis on manual execution, timing, and decision\-making.
+
+#### Players Concerned About Complexity
+
+Some players felt the changes increased mechanical demands without providing sufficient rewards.
+
+#### Class\-Specific Concerns
+
+Numerous discussions focused on class balance, rotation complexity, PvP effectiveness, and perceived nerfs.
+
+#### Players Who Felt the Changes Did Not Go Far Enough
+
+A portion of the community argued that the combat system continued to lack sufficient depth, build diversity, and meaningful engagement despite the rework.
+
+### Design Lessons
+
+The strongest themes emerging from community feedback were:
+
+- Agency
+- Build Expression
+- Class Identity
+- Reward Structures
+- Skill Expression
+
+### Conclusion
+
+Player engagement appears strongly linked to meaningful decision\-making rather than passive optimization.
+
+The community response suggests that players place significant value on agency, mastery, and opportunities to distinguish themselves through execution and system knowledge.
+
+### Skills Demonstrated
+
+- Combat Systems Design
+- Community Feedback Analysis
+- Systems Thinking
+- Player Behavior Analysis
+- Engagement Modeling
+
