@@ -22,6 +22,15 @@ Dynamic market monitoring.
 Economic sink balancing.
 Reduced friction for legitimate players.
 
+graph TD
+    A[Progression Friction] --> B[Player Frustration]
+    B --> C[RMT Demand]
+    C --> D[Seller Profitability]
+    D --> E[More Sellers]
+    E --> F[Economic Distortion]
+    F --> G[Developer Restrictions]
+    G --> A
+
 Skills Demonstrated
 
 Systems Design
