@@ -1,0 +1,190 @@
+Lessons from Aion 2, Throne & Liberty, Guild Wars 2, and Final Fantasy XIV
+Author
+Ayumi Kiyomizu
+
+
+Executive Summary
+After years of participating in MMORPG communities, leading player-driven social initiatives, studying game systems, and analyzing player behavior, I have developed a simple observation:
+Most MMORPGs do not lose players because of a lack of content.
+They lose players because of friction.
+Friction exists whenever players encounter barriers between their goals and their desired experiences.
+Some friction is healthy and creates meaningful progression.
+Some friction becomes frustrating and encourages disengagement.
+This document explores observations drawn from Aion 2, Throne & Liberty, Guild Wars 2, and Final Fantasy XIV while identifying common retention challenges and potential design considerations.
+
+
+Core Principle
+Players optimize behavior around incentives.
+When incentives support healthy engagement, communities grow.
+When incentives encourage exploitation, burnout, exclusion, or disengagement, players eventually leave.
+Successful systems align:
+
+- Developer goals
+- Player goals
+- Community goals
+Failure occurs when these goals become disconnected.
+
+
+Case Study: Aion 2
+Strengths
+Aion 2 successfully captures many strengths traditionally associated with MMORPGs:
+
+- Strong visual identity
+- Faction identity
+- Social interaction
+- Community formation
+- Nostalgia from the original Aion
+- Accessible roleplay opportunities
+The game provides a strong foundation for long-term community building.
+
+
+Retention Challenges
+Economic Accessibility
+One of the largest threats to player retention is perceived economic inequality.
+As progression costs increase, many players begin searching for alternative methods of advancement.
+The issue is not simply gold selling.
+The issue is incentive structure.
+When illicit acquisition methods become more attractive than legitimate progression paths, demand remains persistent regardless of enforcement efforts.
+Players generally choose the path requiring the least friction.
+Design Question:
+How can legitimate progression become more attractive than illicit alternatives?
+
+
+Macro Dependence
+When systems encourage repetitive behavior, players frequently seek automation.
+The existence of macros is often a symptom rather than the root cause.
+Designers must evaluate:
+
+- Why players feel compelled to automate.
+- Which gameplay activities create unnecessary repetition.
+- Whether player agency is being replaced by routine behavior.
+
+
+New Player Retention
+New players face several challenges:
+
+- Information overload
+- Economic barriers
+- Knowledge gaps
+- Social isolation
+Players who fail to establish social connections early commonly struggle to develop long-term engagement.
+Communities frequently become the real endgame.
+
+
+Combat Accessibility
+Combat depth and accessibility must remain balanced.
+Shallow combat systems may create short-term accessibility but risk reducing long-term mastery and experimentation.
+Players who enjoy optimization, analysis, and buildcraft often remain engaged longer when systems support meaningful choices.
+
+
+Case Study: Throne & Liberty
+Strengths
+Throne & Liberty provides several strong retention systems:
+
+- Flexible weapon combinations
+- Build experimentation
+- Economic interaction
+- Skill customization
+- Combat optimization
+The game consistently rewards player analysis and experimentation.
+
+
+Retention Challenges
+Launch Population Decline
+Many MMORPG launches experience substantial population reductions following release.
+This is not necessarily a content problem.
+Often it reflects:
+
+- Completion of initial goals
+- Community fragmentation
+- Social network collapse
+- Progression bottlenecks
+
+
+Economic Health
+Virtual economies become increasingly important as games mature.
+Players remain highly sensitive to:
+
+- Inflation
+- Auction house accessibility
+- Progression costs
+- Resource acquisition rates
+Economic frustration often impacts retention more significantly than combat design.
+
+
+Case Study: Guild Wars 2
+Strengths
+Guild Wars 2 demonstrates the effectiveness of horizontal progression.
+Advantages include:
+
+- Reduced power creep
+- Content longevity
+- Lower re-entry barriers
+- Strong exploration incentives
+This creates one of the most welcoming environments for returning players.
+
+
+Retention Challenges
+Endgame Concentration
+As players consolidate around endgame activities, newer zones may feel empty despite healthy overall populations.
+Perception often becomes reality.
+A populated game can still appear deserted when activity is highly concentrated.
+
+
+Case Study: Final Fantasy XIV
+Strengths
+Few MMORPGs handle narrative storytelling as effectively as Final Fantasy XIV.
+Key strengths include:
+
+- Character attachment
+- Worldbuilding
+- Emotional investment
+- Long-term narrative continuity
+
+
+Retention Challenges
+Community Fragmentation
+Roleplay communities demonstrate how social systems influence retention.
+Players frequently join roleplay spaces seeking:
+
+- Storytelling
+- Character development
+- Community
+However, mismatched expectations may reduce long-term engagement.
+When social spaces prioritize participant objectives over collaborative storytelling, some players disengage and seek alternative communities.
+
+
+Community Systems
+One of the most underestimated forms of retention is player-created community.
+While developers create worlds, players create culture.
+Strong communities provide:
+
+- Shared objectives
+- Friendships
+- Mentorship
+- Guidance
+- Social accountability
+Players often remain in a game long after progression ends because meaningful relationships have formed.
+
+
+Onboarding Matters
+Many MMORPGs focus heavily on retaining veterans while overlooking first impressions.
+Effective onboarding should:
+
+- Introduce complexity gradually.
+- Encourage social interaction.
+- Reduce confusion.
+- Provide achievable goals.
+- Build player confidence.
+The first several hours frequently determine whether a player becomes a long-term community member.
+
+
+Systems Designer Observations
+Throughout my experiences as a software developer, systems engineer, community leader, and MMORPG player, I have repeatedly observed the same pattern:
+Players rarely leave because they have completed all available content.
+Players leave because friction exceeds enjoyment.
+Understanding the relationship between incentives, community, progression, economy, and player behavior is essential to building systems that remain engaging over time.
+Good systems encourage participation.
+Great systems create belonging.
+The most successful MMORPGs are not merely collections of mechanics.
+They are living ecosystems shaped by both design and community.
