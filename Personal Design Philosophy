@@ -1,0 +1,281 @@
+# Design Philosophy
+
+### Ayumi Kiyomizu
+
+Good systems design begins with understanding incentives.
+
+However, incentives cannot be examined in isolation. Every game system exists within a broader ecosystem shaped by culture, social norms, player expectations, technological limitations, regional preferences, and the accumulated lessons of multiple generations of games.
+
+Massively Multiplayer Online Role\-Playing Games have always fascinated me because they represent the intersection of technology, community, psychology, economics, and storytelling.
+
+Since the earliest days of MMORPGs, developers have sought to build virtual worlds capable of bringing together players from vastly different backgrounds and experiences. From early pioneers such as RuneScape and Ragnarok Online to industry\-defining titles such as World of Warcraft, developers have continually experimented with the challenge of creating meaningful shared experiences.
+
+At their best, MMORPGs become more than games.
+
+They become societies.
+
+They develop economies, cultures, communities, hierarchies, friendships, rivalries, and histories entirely shaped by player interaction.
+
+This is where systems design becomes truly fascinating.
+
+---
+
+## Understanding Player Motivation
+
+Players rarely interact with systems exactly as designers intend.
+
+Players optimize.
+
+Players experiment.
+
+Players seek efficiency.
+
+Players seek mastery.
+
+Players seek social status, belonging, progression, competition, creativity, and self\-expression.
+
+Many players view their characters as extensions of themselves.
+
+Others view them as tools.
+
+Some view them as stories waiting to be told.
+
+The most successful systems acknowledge these motivations and create environments where player goals naturally align with developer goals.
+
+When evaluating a system, I begin with three questions:
+
+### 1\. What behavior does this system encourage?
+
+### 2\. What friction does this system introduce?
+
+### 3\. Does this improve long\-term player engagement?
+
+---
+
+## Systems Are Defined by Interactions
+
+My background in systems engineering, software development, community leadership, and MMO analysis has taught me an important lesson:
+
+Successful systems are rarely defined by individual mechanics.
+
+They are defined by the interactions between:
+
+- Mechanics
+- Player psychology
+- Progression loops
+- Economic structures
+- Community behavior
+- Social incentives
+
+The most important design outcomes are often emergent rather than intentional.
+
+Players consistently find paths, strategies, and behaviors that no design document explicitly predicts.
+
+Understanding why this happens is one of the most interesting challenges in systems design.
+
+---
+
+# Community as a Retention System
+
+One of the most overlooked retention mechanics in game design is community itself.
+
+Developers create worlds.
+
+Players create culture.
+
+Strong communities provide:
+
+- Shared goals
+- Mentorship
+- Identity
+- Belonging
+- Social accountability
+- Long\-term engagement
+
+Throughout my experience organizing and supporting MMORPG communities, I have observed that many players remain active long after progression goals have been completed because meaningful social connections have formed.
+
+Community is not a byproduct of game design.
+
+Community is a game system.
+
+The strongest MMORPGs understand this and actively support player\-driven social structures.
+
+---
+
+# Case Study: Aion 2 and RMT Incentives
+
+One of the most interesting modern examples of systems design challenges can be observed through the launch and evolution of Aion 2.
+
+Like many MMORPGs before it, the game has faced challenges related to Real Money Trading (RMT), virtual economy stability, progression accessibility, and long\-term player retention.
+
+The traditional response to RMT often focuses on enforcement:
+
+- Account bans
+- Trade restrictions
+- Marketplace limitations
+- Currency monitoring
+- Automated detection systems
+
+While these tools remain important, my analysis suggests that they frequently address symptoms rather than root causes.
+
+My design philosophy begins with a different question:
+
+**Why are players willing to participate in RMT in the first place?**
+
+Players generally make decisions according to perceived value.
+
+If progression becomes excessively time\-consuming, frustrating, restrictive, or inaccessible, alternative pathways become increasingly attractive regardless of enforcement measures.
+
+This creates a recurring feedback loop:
+
+1. Players seek faster progression.
+2. Third\-party sellers supply resources.
+3. Economic value shifts into unofficial channels.
+4. Additional restrictions are implemented.
+5. Legitimate players experience increased friction.
+6. Alternative solutions become more attractive.
+
+The cycle repeats.
+
+The challenge therefore extends beyond enforcement.
+
+It becomes a systems design problem.
+
+---
+
+## RMT as an Incentive Problem
+
+In many MMORPGs, currency sellers succeed not because they are impossible to remove.
+
+They succeed because demand continues to exist.
+
+As long as players perceive value in acquiring currency, resources, or progression through unofficial channels, new suppliers will emerge to replace those that are removed.
+
+This shifts the design question from:
+
+"How do we punish undesirable behavior?"
+
+to:
+
+"Why is this behavior succeeding?"
+
+This distinction is critical.
+
+Designers must evaluate:
+
+- Progression pacing
+- Currency accessibility
+- Resource scarcity
+- Market accessibility
+- Time investment requirements
+- Perceived fairness
+- Competitive pressure
+
+The objective is not merely to remove sellers.
+
+The objective is to remove profitability.
+
+---
+
+# Marketplace Stability
+
+Player\-driven economies are among the most fascinating systems in game design.
+
+They enable:
+
+- Player agency
+- Emergent behavior
+- Specialization
+- Wealth generation
+- Social interaction
+
+However, unchecked economic systems may also create opportunities for:
+
+- Inflation
+- Wealth concentration
+- Market manipulation
+- Resource monopolization
+- Currency laundering
+- Exploitative behavior
+
+Healthy marketplaces encourage:
+
+- Fair competition
+- Accessibility
+- Transparency
+- Sustainable progression
+
+The challenge is balancing player freedom with economic stability.
+
+---
+
+# Friction and Retention
+
+Not all friction is bad.
+
+Meaningful challenge creates engagement.
+
+Meaningful progression creates accomplishment.
+
+Meaningful decision\-making creates investment.
+
+However, friction that exists solely as an obstacle often reduces retention.
+
+When evaluating systems, I frequently ask:
+
+1. What behavior does this system encourage?
+2. Who benefits from the current incentive structure?
+3. Does this create meaningful progression or unnecessary friction?
+4. Are players being rewarded for engagement?
+5. Does this improve long\-term retention?
+
+---
+
+# Systems Design Conclusion
+
+Players optimize around incentives.
+
+Communities adapt to rules.
+
+Markets adapt to restrictions.
+
+When undesirable behaviors become widespread, the most important question is not:
+
+**"How do we stop this behavior?"**
+
+The more important question is:
+
+**"Why does this behavior exist?"**
+
+Understanding that distinction is fundamental to effective systems design.
+
+The strongest solutions rarely rely exclusively on enforcement.
+
+Instead, they align player incentives with desired outcomes.
+
+When incentives and outcomes align:
+
+- Communities grow.
+- Economies stabilize.
+- Social structures strengthen.
+- Retention improves.
+- Players remain engaged for the long term.
+
+Whether evaluating combat systems, progression loops, virtual economies, social systems, or player onboarding experiences, I approach design through the lens of player experience, incentive alignment, and long\-term sustainability.
+
+I believe great systems create meaningful decisions rather than mandatory choices, reward mastery rather than repetition, and allow players to become active participants in shaping their worlds.
+
+---
+
+# Additional Reading
+
+### Aion 2: Combat, Economy, and Player Retention Analysis
+
+My full analysis of Aion 2's combat systems, economy, progression loops, macro dependence, auction house accessibility, and player retention challenges can be found here:
+
+**LinkedIn Article**
+
+[https://www.linkedin.com/pulse/suggestions\-aion\-2\-global\-combat\-economy\-player\-retention\-%E3%81%82%E3%82%86%E3%81%BF\-%E3%81%8D%E3%82%88%E3%81%BF%E3%81%9A\-knamc/](https://www.linkedin.com/pulse/suggestions-aion-2-global-combat-economy-player-retention-%E3%81%82%E3%82%86%E3%81%BF-%E3%81%8D%E3%82%88%E3%81%BF%E3%81%9A-knamc/)
+
+This article serves as a practical example of my approach to systems analysis, economy design, retention mechanics, and player\-centric design philosophy.
+
